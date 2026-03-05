@@ -18,7 +18,7 @@
 - **Founded:** 2011
 - **Address:** 401 Henley St, Knoxville, TN 37902 (located in the historic L&N railroad station in World's Fair Park)
 - **Phone:** (865) 329-8440
-- **Grades:** 9–12
+- **Grades:** 9-12
 - **Enrollment:** 600+ students
 - **Website:** https://landn.knoxschools.org
 
@@ -94,9 +94,9 @@
 5. **Inquiry** — Asking hard questions, seeking different solutions, making mistakes and learning from them
 6. **Collaboration** — Learning from others; pushing teammates to follow through on all tasks as perfectly as possible
 
-### 2.4 Team Composition (2025–2026)
+### 2.4 Team Composition (2025-2026)
 
-- **~67–75 students** (67 active members per Pit Bot; 75 participants per grant doc)
+- **~67-75 students** (67 active members per Pit Bot; 75 participants per grant doc)
 - **One-third (33%) are female**
 
 > ⚠️ **Coach and mentor counts vary across source documents and reflect different points in time:**
@@ -173,15 +173,15 @@
 | ---------------------- | --------------------------------------------------------------------------------------- |
 | **August**             | Recruitment, outreach, planning                                                         |
 | **September**          | Robo-Rodeo (offseason event) + Rookie Initial Training                                  |
-| **October – December** | Offseason building projects, CAD and tool skills practice, outreach events, fundraising |
+| **October - December** | Offseason building projects, CAD and tool skills practice, outreach events, fundraising |
 | **January**            | New game reveal & kickoff; begin intense practice schedule                              |
 | **February**           | Design, prototype, fabricate, wire, and program                                         |
-| **March – April**      | Complete robot and compete at regionals                                                 |
+| **March - April**      | Complete robot and compete at regionals                                                 |
 | **May**                | End-of-year celebration                                                                 |
 
 **Time commitment:** Members average **200+ after-school hours** per year, not including competitions (~20 hours each).
 
-**Fall meetings:** Tuesdays and Thursdays, 2 hours after school. Starting 2025–26: one additional 40-minute during-school meeting per week (rookies and leadership separately).
+**Fall meetings:** Tuesdays and Thursdays, 2 hours after school. Starting 2025-26: one additional 40-minute during-school meeting per week (rookies and leadership separately).
 
 **Spring Build Season:** Four weeknights × 3 hours each + some all-day Saturdays + Sunday afternoon drive practices at other schools.
 
@@ -212,8 +212,8 @@
 
 ### 2.14 Team Growth & Impact Metrics
 
-- Grew from **15 active members** (pre-rebrand) to **67–75 members** (2025–26)
-- **Funding increased ~400%** in the 2024–25 school year
+- Grew from **15 active members** (pre-rebrand) to **67-75 members** (2025-26)
+- **Funding increased ~400%** in the 2024-25 school year
 - Of the last **13 seniors**: 100% pursuing 4-year college degrees; 12 in STEM fields (mechanical engineering, electrical engineering, computer science, environmental science)
 - **2 alumni** are currently university engineering students serving as mentors
 - **Spring 2025:** Finished **3rd in Tennessee**
@@ -248,7 +248,7 @@
 
 - First year competing; team name was **Gryphon Robotics**.
 
-#### 2013 – 2014
+#### 2013 - 2014
 
 - Competed as **L&N STEMpunks**.
 
@@ -337,16 +337,16 @@
 
 ### 4.1 Drivetrain History & Notes
 
-- Team uses **swerve drive** (2024–2025 seasons confirmed)
+- Team uses **swerve drive** (2024-2025 seasons confirmed)
 - Motor controllers historically: **REV SparkMAX** (Neo motors)
-- **Known swerve issues (2024–2025):** Worn tread, internal mechanism failures, pinion failures
+- **Known swerve issues (2024-2025):** Worn tread, internal mechanism failures, pinion failures
 - **Planned upgrade (2026 offseason):** Kraken x86 motors with TalonFX controllers for drive and azimuth — addressing torque, speed, and swerve maintenance issues; aligns with industry standard among high-level FRC teams
 
 ### 4.2 Vision & Software Architecture (2025)
 
 - WPILib Java (standard FRC framework)
 - Onboard vision camera for full-match field-relative positioning
-- **Off-season 2025–26:** Object detection neural network in development — onboard camera + co-processor running a model trained to detect coral game pieces; robot can autonomously track and intake pieces, reducing driver cognitive load
+- **Off-season 2025-26:** Object detection neural network in development — onboard camera + co-processor running a model trained to detect coral game pieces; robot can autonomously track and intake pieces, reducing driver cognitive load
 
 ---
 
@@ -358,14 +358,14 @@
 
 | Event                    | Location        | Dates             | Week   |
 | ------------------------ | --------------- | ----------------- | ------ |
-| Smoky Mountains Regional | Sevierville, TN | March 18–21, 2026 | Week 3 |
-| Rocket City Regional     | Huntsville, AL  | April 8–11, 2026  | Week 6 |
+| Smoky Mountains Regional | Sevierville, TN | March 18-21, 2026 | Week 3 |
+| Rocket City Regional     | Huntsville, AL  | April 8-11, 2026  | Week 6 |
 
 ### 5.2 Team Context
 
 - **First year in FRC Open Alliance** (public build documentation on Chief Delphi)
 - **Second year** as Gryphon Command
-- ~30 new members recruited in the 2025–26 offseason; when added to the ~70 on the 2025 team, this suggests a total approaching ~100 — though exact 2025–26 active membership has not been confirmed in a primary document
+- ~30 new members recruited in the 2025-26 offseason; when added to the ~70 on the 2025 team, this suggests a total approaching ~100 — though exact 2025-26 active membership has not been confirmed in a primary document
 - 2025 rookies now serving as department trainers for 2026 rookies — leadership pipeline maturing
 
 ### 5.3 2026 Robot — [NAME TBD]
@@ -417,7 +417,7 @@
 | **Team 5744 Roborunners**                    | Close mentoring relationship; urban school with membership struggles; team requests adjacent pits at SMR to share all tools; helped modify their robot for inspection; filled their drive team when they lacked students |
 | **AIA of East Tennessee**                    | Co-host of annual Bricks & Blocks Challenge (~100 children per year)                                                                                                                                                     |
 | **The Muse Knoxville**                       | Annual Children's Robotics Festival collaboration                                                                                                                                                                        |
-| **Maynard Elementary School**                | STEMonstration partnership; developing formal FIRST LEGO League Explore mentorship (grades 2–5)                                                                                                                          |
+| **Maynard Elementary School**                | STEMonstration partnership; developing formal FIRST LEGO League Explore mentorship (grades 2-5)                                                                                                                          |
 | **ORNL**                                     | Two senior mentors (Duckworth, YarKhan); FIRST mentoring outreach assistance                                                                                                                                             |
 | **L&N STEM Idea Factory**                    | Shared facility; joint STEM outreach with Society of Women Engineers                                                                                                                                                     |
 | **Society of Women Engineers (L&N chapter)** | Joint STEM outreach events for hundreds of families                                                                                                                                                                      |
@@ -432,7 +432,7 @@
 The team has had three names since founding in 2012:
 
 1. **Gryphon Robotics** — original name (2012)
-2. **L&N STEMpunks / STEMPunks** — the identity for most of team history (2013–2024)
+2. **L&N STEMpunks / STEMPunks** — the identity for most of team history (2013-2024)
 3. **Gryphon Command** — adopted Spring 2024; first competed under this name in the **2025 FIRST season**
 
 When users ask about team history prior to 2025, all three names refer to the same organization (Team #3966).
