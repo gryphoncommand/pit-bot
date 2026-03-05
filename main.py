@@ -5,7 +5,7 @@ from pathlib import Path
 
 here = Path(__file__).parent
 system_prompt = (here / "system_prompt.md").read_text()
-team_information = (here / "team_information.md").read_text()
+fact_file = (here / "fact_file.md").read_text()
 
 model = OpenAIChatModel(
     "openai/gpt-oss-20b",
@@ -18,8 +18,8 @@ agent = Agent(model, system_prompt=system_prompt)
 
 
 @agent.system_prompt
-def team_information_facts() -> str:
-    return team_information
+def fact_file_contents() -> str:
+    return fact_file
 
 
 if __name__ == "__main__":
