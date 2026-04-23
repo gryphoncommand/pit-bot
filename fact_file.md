@@ -2,7 +2,7 @@
 
 ### AI Agent Fact File
 
-> **Last Updated:** February 2026
+> **Last Updated:** April 2026
 > **Sources:** Team Pit Bot document (August 2025), Impact Award Essay, TSIN/TVA Grant Application (May 2025), The Blue Alliance, FIRST Inspires, Chief Delphi Open Alliance thread, GitHub, Comcast/FIRST press release, L&N STEM Academy website
 > **Confidence:** Facts marked ⚠️ are sourced solely from web searches and should be verified against official team records. All other facts are sourced directly from official team documents.
 
@@ -226,21 +226,23 @@
 
 ### 3.1 Complete Awards Record
 
-| Year     | Event                          | Award                                                      |
-| -------- | ------------------------------ | ---------------------------------------------------------- |
-| **2025** | Smoky Mountains Regional       | Alliance Captain + **Regional Finalist**                   |
-| **2025** | Rocket City Regional           | Alliance Captain + Imagery Award                           |
-| **2023** | Smoky Mountains Regional       | Imagery Award                                              |
-| **2020** | Arkansas Regional              | Imagery Award                                              |
-| **2019** | Bayou Regional                 | Imagery Award                                              |
-| **2019** | Smoky Mountains Regional       | Regional Finalist + Imagery Award                          |
-| **2018** | Smoky Mountains Regional       | Imagery Award                                              |
-| **2017** | Miami Valley Regional          | Imagery Award                                              |
-| **2017** | Smoky Mountains Regional       | Entrepreneurship Award                                     |
-| **2017** | FIRST Championships            | Imagery Award                                              |
-| **2016** | Rocket City Regional           | Entrepreneurship Award                                     |
-| **2016** | FIRST Championships (Einstein) | Media & Technology Innovation Award (Comcast NBCUniversal) |
-| **2015** | Smoky Mountains Regional       | Imagery Award                                              |
+| Year     | Event                          | Award                                                                          |
+| -------- | ------------------------------ | ------------------------------------------------------------------------------ |
+| **2026** | Smoky Mountains Regional       | Alliance Captain + Gracious Professionalism Award                              |
+| **2026** | Rocket City Regional           | Alliance Captain + **Regional Finalist** + Innovation in Control Award (nVent) |
+| **2025** | Smoky Mountains Regional       | Alliance Captain + **Regional Finalist**                                       |
+| **2025** | Rocket City Regional           | Alliance Captain + Imagery Award                                               |
+| **2023** | Smoky Mountains Regional       | Imagery Award                                                                  |
+| **2020** | Arkansas Regional              | Imagery Award                                                                  |
+| **2019** | Bayou Regional                 | Imagery Award                                                                  |
+| **2019** | Smoky Mountains Regional       | Regional Finalist + Imagery Award                                              |
+| **2018** | Smoky Mountains Regional       | Imagery Award                                                                  |
+| **2017** | Miami Valley Regional          | Imagery Award                                                                  |
+| **2017** | Smoky Mountains Regional       | Entrepreneurship Award                                                         |
+| **2017** | FIRST Championships            | Imagery Award                                                                  |
+| **2016** | Rocket City Regional           | Entrepreneurship Award                                                         |
+| **2016** | FIRST Championships (Einstein) | Media & Technology Innovation Award (Comcast NBCUniversal)                     |
+| **2015** | Smoky Mountains Regional       | Imagery Award                                                                  |
 
 ### 3.2 Season Summaries
 
@@ -325,6 +327,17 @@
 - **Global improvement:** 76.6th → 16.6th percentile; 150+ pt EPA increase
 - GitHub: `2025Code`
 
+#### 2026 — _REBUILT™ presented by Haas_ ⭐ First FIRST Championship appearance since 2017
+
+- **Robot Name:** Courier
+- **Record:** 18-10-1 official ⚠️
+- **Events:**
+  - Smoky Mountains Regional (Sevierville, TN, March 18-21) — Rank 8 (8-5-0); Captain Alliance 5 (picks: 7525, 4265, 4504); eliminated in Double Elimination Bracket Round 3; **Gracious Professionalism Award**
+  - Rocket City Regional (Huntsville, AL, April 8-11) — Rank 4 (10-5-1); Captain Alliance 3 (picks: 2638, 1308); **Regional Finalist**; **Innovation in Control Award** (sponsored by nVent)
+  - FIRST Championship (Houston, TX, April 29–May 2) — **Qualified** ⚠️; match results pending as of April 21, 2026
+- **Regional Championship Pool:** Rank #181 (94 points)
+- **Notable:** Fourth FIRST Championship appearance in team history; first since 2019
+
 ---
 
 ## 4. Past Robots
@@ -350,45 +363,49 @@
 
 ---
 
-## 5. 2026 Season — Current / Upcoming
+## 5. 2026 Season — REBUILT™ presented by Haas
 
-> **Status as of February 26, 2026:** Pre-competition. No match results yet. First event begins March 18, 2026.
+> **Status as of April 21, 2026:** Regular season complete. **Qualified for FIRST Championship** (Houston, TX, April 29–May 2, 2026). Championship results pending.
 
-### 5.1 Scheduled Events
+### 5.1 Events & Results
 
-| Event                    | Location        | Dates             | Week   |
-| ------------------------ | --------------- | ----------------- | ------ |
-| Smoky Mountains Regional | Sevierville, TN | March 18-21, 2026 | Week 3 |
-| Rocket City Regional     | Huntsville, AL  | April 8-11, 2026  | Week 6 |
+| Event                    | Location        | Dates             | Week   | Rank | Record  | Result                           |
+| ------------------------ | --------------- | ----------------- | ------ | ---- | ------- | -------------------------------- |
+| Smoky Mountains Regional | Sevierville, TN | March 18-21, 2026 | Week 3 | 8    | 8-5-0   | Alliance 5 Captain; Elim Rd 3    |
+| Rocket City Regional     | Huntsville, AL  | April 8-11, 2026  | Week 6 | 4    | 10-5-1  | Alliance 3 Captain; **Finalist** |
+| FIRST Championship       | Houston, TX     | April 29–May 2    | —      | TBD  | Pending | Qualified ⚠️                     |
 
-### 5.2 Team Context
+**Overall regular season record:** 18-10-1 ⚠️
+**Regional Championship Pool:** Rank #181 (94 points) ⚠️
+
+### 5.2 Awards Won
+
+- **Smoky Mountains Regional:** Gracious Professionalism Award
+- **Rocket City Regional:** Regional Finalist + Innovation in Control Award (sponsored by nVent)
+
+### 5.3 Team Context
 
 - **First year in FRC Open Alliance** (public build documentation on Chief Delphi)
 - **Second year** as Gryphon Command
 - ~30 new members recruited in the 2025-26 offseason; when added to the ~70 on the 2025 team, this suggests a total approaching ~100 — though exact 2025-26 active membership has not been confirmed in a primary document
 - 2025 rookies now serving as department trainers for 2026 rookies — leadership pipeline maturing
 
-### 5.3 2026 Robot — [NAME TBD]
+### 5.4 2026 Robot — [Courier]
 
-> _To be populated once the team publishes robot name and build details._
+| Field                   | Value                             |
+| ----------------------- | --------------------------------- |
+| **Robot Name**          | Courier⚠️                         |
+| **Drivetrain**          | Kraken x60 (TalonFX) swerve drive |
+| **Key mechanisms**      | Ground intake, Drum shooter       |
+| **Notable tech**        | Full physics simulation           |
+| **Competition results** | See Section 5.1                   |
 
-| Field                   | Value                                                                           |
-| ----------------------- | ------------------------------------------------------------------------------- |
-| **Robot Name**          | TBD                                                                             |
-| **Drivetrain**          | TBD — Kraken x86 (TalonFX) swerve drive planned from offseason chassis project  |
-| **Key mechanisms**      | TBD                                                                             |
-| **Notable tech**        | Object detection neural network (coral) carried over from offseason development |
-| **CAD**                 | Full robot CAD targeted within weeks of kickoff (stated 2026 goal)              |
-| **Simulation**          | Functional subsystem simulation planned for each mechanism                      |
-| **Competition results** | TBD — First event March 18, 2026                                                |
+### 5.5 2026 Season Goals — Status
 
-### 5.4 2026 Season Goals
-
-- Full robot CAD completed early in build season
-- Functional simulation of each subsystem prior to physical testing
-- Continue development and deployment of object detection pipeline
-- Alliance captain / playoff performance building on 2025 results
-- Potential FIRST World Championship qualification
+- ✅ Alliance captain at both regionals
+- ✅ Regional Finalist (Rocket City)
+- ✅ FIRST World Championship qualified — **first Championship since 2019**
+- ⏳ Championship performance TBD (event April 29–May 2, 2026)
 
 ---
 
@@ -447,9 +464,7 @@ When users ask about team history prior to 2025, all three names refer to the sa
 
 ### 7.3 Recommended Refresh Points
 
-| Trigger              | Action                                                      |
-| -------------------- | ----------------------------------------------------------- |
-| After March 21, 2026 | Add Smoky Mountains Regional results, robot name, and specs |
-| After April 11, 2026 | Add Rocket City Regional results                            |
-| End of April 2026    | Add full season record, state ranking, EPA/percentile stats |
-| August 2026          | Full annual refresh from new team documentation             |
+| Trigger           | Action                                                                             |
+| ----------------- | ---------------------------------------------------------------------------------- |
+| After May 2, 2026 | Add FIRST Championship results, final season record, state ranking, EPA            |
+| August 2026       | Full annual refresh from new team documentation; confirm 2026 robot name and specs |
